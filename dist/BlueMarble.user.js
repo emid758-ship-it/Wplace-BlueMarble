@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==UserScript==e
 // @name         Blue Marble
 // @namespace    https://github.com/SwingTheVine/
 // @version      0.82.0
